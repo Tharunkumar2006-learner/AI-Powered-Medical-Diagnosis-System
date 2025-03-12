@@ -1,5 +1,6 @@
 # AI-Powered-Medical-Diagnosis-System
 Our website provides an AI-powered health screening tool to detect heart disease, thyroid disorders, lung cancer, and Parkinson's disease. By collecting user-provided information, our system analyzes symptoms and risk factors to offer early insights. This innovative approach aids in timely detection and proactive healthcare decisions.
+
 🔍 Overview
 
 This project is an AI-powered medical diagnosis system designed to predict multiple diseases, including Heart Disease, Lung Cancer, Parkinson’s Disease, Hypothyroidism, and Eye Diseases (Glaucoma, Cataract, Diabetic Retinopathy, Normal Eye). It leverages Machine Learning (ML) and Deep Learning (DL) models for medical diagnosis and is deployed as a web application for accessibility.
